@@ -1,0 +1,65 @@
+body{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    
+}
+ 
+.calcolatrice{
+    width: 50%;
+    height: auto;
+    text-align: center;
+    margin: auto;
+    
+}
+
+ .out{
+    font-size: 2rem;
+    border: 1px solid black;
+    width: 17rem;
+    border-radius: 10px;
+    text-align: right;
+    margin: 1rem auto;
+    padding:0.5rem 
+}
+ output{
+    font-size: 2rem;
+    width: 50rem;
+    border-radius: 10px;
+    text-align: right;
+    margin: auto;
+    padding:0.5rem 
+    }
+
+
+tr{
+    width: auto;
+}
+table{
+    text-align: center;
+    margin: auto;
+}
+button, input{
+    width: 4rem;
+    height: 10%;
+    padding: 1rem;
+    margin: 0.2rem;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 1.8rem;
+    background-color: white;
+    color: rgb(52, 94, 128);
+    border: 2px solid rgb(52, 94, 128);
+} 
+#delete{
+    font-size: 1.5rem;
+}
+table input:hover {
+    background-color:rgb(194, 223, 224);
+
+}
+#uguale{
+    width: 18rem;
+    height:4rem;
+    border-radius: 10px;
+}
